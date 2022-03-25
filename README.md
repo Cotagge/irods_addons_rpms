@@ -1,2 +1,4 @@
-Repo just for auth-package
+Repository just for irods packages
+
+openid plugin made by M.Golasowski 
 
